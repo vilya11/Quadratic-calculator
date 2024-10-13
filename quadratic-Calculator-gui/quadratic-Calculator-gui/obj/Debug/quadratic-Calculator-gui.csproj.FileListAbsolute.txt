@@ -1,0 +1,11 @@
+C:\Users\asus\Desktop\submit\c#\quadratic-Calculator-gui\quadratic-Calculator-gui\bin\Debug\quadratic-Calculator-gui.exe.config
+C:\Users\asus\Desktop\submit\c#\quadratic-Calculator-gui\quadratic-Calculator-gui\bin\Debug\quadratic-Calculator-gui.exe
+C:\Users\asus\Desktop\submit\c#\quadratic-Calculator-gui\quadratic-Calculator-gui\bin\Debug\quadratic-Calculator-gui.pdb
+C:\Users\asus\Desktop\submit\c#\quadratic-Calculator-gui\quadratic-Calculator-gui\obj\Debug\quadratic-Calculator-gui.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\submit\c#\quadratic-Calculator-gui\quadratic-Calculator-gui\obj\Debug\quadratic-Calculator-gui.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Desktop\submit\c#\quadratic-Calculator-gui\quadratic-Calculator-gui\obj\Debug\quadratic_Calculator_gui.calculate.resources
+C:\Users\asus\Desktop\submit\c#\quadratic-Calculator-gui\quadratic-Calculator-gui\obj\Debug\quadratic_Calculator_gui.Properties.Resources.resources
+C:\Users\asus\Desktop\submit\c#\quadratic-Calculator-gui\quadratic-Calculator-gui\obj\Debug\quadratic-Calculator-gui.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\submit\c#\quadratic-Calculator-gui\quadratic-Calculator-gui\obj\Debug\quadratic-Calculator-gui.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\submit\c#\quadratic-Calculator-gui\quadratic-Calculator-gui\obj\Debug\quadratic-Calculator-gui.exe
+C:\Users\asus\Desktop\submit\c#\quadratic-Calculator-gui\quadratic-Calculator-gui\obj\Debug\quadratic-Calculator-gui.pdb
