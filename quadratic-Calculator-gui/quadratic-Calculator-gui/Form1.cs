@@ -68,5 +68,5 @@ namespace quadratic_Calculator_gui
         {
           
         }
-    }//I try to set the tab order correctly, but don't know why it doesn't work on my device
+    }
 }
